@@ -1,0 +1,31 @@
+
+body{
+    background:linear-gradient(135deg,#1d2b64,#f8cdda);
+    height:100vh;
+}
+ul{
+    list-style-type: none;
+    display:flex;
+    background-color: navy;
+    padding:15px;
+    margin:50px;
+}
+li{
+    margin-right: 20px;
+}
+a{
+    color:yellow;
+    text-decoration: dotted;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:hover{
+    color:red;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
